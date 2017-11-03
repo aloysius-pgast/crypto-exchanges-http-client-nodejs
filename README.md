@@ -16,4 +16,4 @@ Node.js client for [Crypto Exchange Gateway](https://github.com/aloysius-pgast/c
 
 ## How to use it
 
-See [examples in _examples_ directory](examples/) for some examples
+See [examples in _examples_ directory](https://github.com/aloysius-pgast/crypto-exchanges-http-client-nodejs/tree/master/examples/) for some examples
