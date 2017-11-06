@@ -8,7 +8,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aloysius-pgast/crypto-exchanges-http-client-nodej"
+    "url": "https://github.com/aloysius-pgast/crypto-exchanges-http-client-nodejs"
   },
   "dependencies": {
     "debug": "^3.1.0",
