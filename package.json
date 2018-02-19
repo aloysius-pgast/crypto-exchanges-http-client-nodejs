@@ -1,6 +1,6 @@
 {
   "name": "crypto-exchanges-http-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js client for Crypto Exchange Gateway",
   "main": "lib/client.js",
   "scripts": {},

@@ -13,7 +13,10 @@ Node.js client for [Crypto Exchange Gateway](https://github.com/aloysius-pgast/c
 - _closedOrders_ : to list closed orders on a given exchange
 - _newOrder_ : to create a new order for a given pair on a given exchange
 - _balances_ : to list available balances on a given exchange
+- alerts management
 
 ## How to use it
 
 See [examples in _examples_ directory](https://github.com/aloysius-pgast/crypto-exchanges-http-client-nodejs/tree/master/examples/) for some examples
+
+See [Crypto Exchange Gateway documentation](https://github.com/aloysius-pgast/crypto-exchanges-gateway/tree/master/doc) for a description of each REST API use by this module
