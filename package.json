@@ -1,7 +1,7 @@
 {
   "name": "crypto-exchanges-http-client",
-  "version": "1.0.3",
-  "description": "Node.js client for Crypto Exchange Gateway",
+  "version": "1.0.4",
+  "description": "Node.js client for Crypto Exchange Gateway (DEPRECATED)",
   "main": "lib/client.js",
   "scripts": {},
   "author": "Aloysius Pendergast <aloysius.pgast@gmail.com>",
